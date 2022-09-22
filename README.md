@@ -2,7 +2,9 @@
 
 1. Using SQL to perform Data Exploration for the COVID 19 extracted Dataset and making it ready with the Views . till (03/04/2022)
 
-2. Based on the previous transformed Data from the SQL Queries , we then create Data Visualizations of the COVID 19 Cases using Tableau . 
+2. Based on the previous transformed Data from the SQL Queries , we then create Data Visualizations of the COVID 19 Cases using Tableau .
+
+
     link for the COVID 19 Data visualzation using Tableau :
 
     https://public.tableau.com/app/profile/kislay.karan/viz/COVID19DataAnalysis_16609029470600/COVID19
